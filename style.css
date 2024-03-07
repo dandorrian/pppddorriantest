@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #09233d;
+    color: #ffffff;
+}
+main {
+    text-align: center;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    width: 100vh;
+}
+nav {
+    background-color: #f39111;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
